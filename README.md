@@ -1,0 +1,2 @@
+# inventoryManagement
+gestion de stock
